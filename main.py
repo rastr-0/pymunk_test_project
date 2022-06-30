@@ -1,5 +1,3 @@
-from email.quoprimime import body_check
-from turtle import radians
 import pygame
 import pymunk
 import pymunk.pygame_util
